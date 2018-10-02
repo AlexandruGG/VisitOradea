@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#009688</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#00695C</color>
+
+    <!-- Color of the Tabs in the Tab Layout -->
+    <color name="primary_tab_color">#00BFA5</color>
+
+    <!-- Background color for app -->
+    <color name="white_background">#FFF7DA</color>
+
+</resources>

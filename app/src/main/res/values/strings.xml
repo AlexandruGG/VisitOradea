@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visit Oradea</string>
+
+    <!-- The names of the different type of attractions -->
+    <string name="attraction_landmarks">Landmarks</string>
+    <string name="attraction_parks">Parks</string>
+    <string name="attraction_food">"Food &amp; Drink"</string>
+    <string name="attraction_activities">Activities</string>
+
+    <!-- Details for all landmarks -->
+    <string name="landmark_black_eagle_name">Black Eagle Palace</string>
+    <string name="landmark_black_eagle_description">The Black Eagle Complex is probably the most monumental
+        architectural accomplishment in Oradea and in Transylvania, as far as the Secession building
+        style is concerned. The contest to build this architectural complex was won by architects
+        Komor Marcell and Jakab Dezső. Its construction, on the old location of the “Black Eagle”
+        Inn, begins in 1907, under the supervision of construction engineer Sztarill Ferenc, and in
+        December 1908, the edification is complete.</string>
+    <string name="landmark_black_eagle_address">Strada Independenței 1, Oradea, Romania</string>
+    <string name="landmark_black_eagle_telephone">+40 259 450 000</string>
+    <string name="landmark_black_eagle_website">http://oradea.travel/en/?p=1913</string>
+
+    <string name="landmark_oradea_fortress_name">Oradea Fortress</string>
+    <string name="landmark_oradea_fortress_description">Ever since its beginnings, Oradea Fortress was
+        the polarizing nucleus for the settlements of the area, by concentrating the political,
+        military, administrative, judicial and religious functions within its walls. It constituted
+        an important religious center after the canonization, in 1192, of the founder of the Oradea
+        diocese as Saint Ladislaus the Thaumaturge, becoming during the 13th and 14th Centuries a
+        pilgrimage spot on par with any other in Europe. The active involvement of the bishops in
+        its development and its effervescent cultural life transformed the Oradea Fortress of the
+        15th Century in one of the most important centers of Humanism and the Renaissance in
+        Central-Eastern Europe.</string>
+    <string name="landmark_oradea_fortress_address">Piata Emanuil Gojdu 39&#8211;41, Oradea 410066, Romania</string>
+    <string name="landmark_oradea_fortress_telephone">+40 724 437 098</string>
+    <string name="landmark_oradea_fortress_website">http://oradea.travel/en/?p=1879</string>
+
+    <string name="landmark_zion_synagogue_name">Zion Synagogue</string>
+    <string name="landmark_zion_synagogue_description">The Neolog Synagogue Zion is situated across from
+        1 Decembrie Square, on Independenţei Street. It was built after the division of the
+        Jewish community of Oradea into Orthodox Jews and Neolog or Congress Jews, and in 1878
+        it was finally standing in the town of Oradea. This spectacular Eclectic building was
+        erected after the plan of Busch David and Rimanóczy Kálmán-Sr. Similar to the other
+        synagogue, the exterior and interior adornments are Moorish. The main differences
+        between the two Mosaic temples lie in the monumentality of the latter. Unlike the Orthodox
+        Synagogue, the Neolog temple stands out through massiveness, monumentality, and, last but
+        not least, ideal location.
+    </string>
+    <string name="landmark_zion_synagogue_address">Strada Independenței 8, Oradea, Romania</string>
+    <string name="landmark_zion_synagogue_telephone">+40 259 437 000</string>
+    <string name="landmark_zion_synagogue_website">http://oradea.travel/en/?p=1959</string>
+
+    <string name="landmark_sztarill_palace_name">Sztarill Palace</string>
+    <string name="landmark_sztarill_palace_description">Sztarill Palace (now Hotel Astoria) with the renowned
+        EMKE coffee-shop – where the poet Ady Endre undertook much of his literary activity,
+        and where he met his inspiring muse, Leda – still exists, under the name Astoria.
+        This establishment was built at the intersection of the current Teatrului Street with
+        Ferdinand Square. The palace was designed by Sztarill Ferenc, between the years 1902
+        and 1906, in eclectic style with obvious Secession influences. The building is evidence
+        of the architectural good taste, but also for the ornamental and chromatic exuberance
+        which fascinated local architects and Oradea citizens alike. Rehabilitated a few years ago,
+        the Sztarill Palace showcases its striking carousel of curved lines and colors.
+    </string>
+    <string name="landmark_sztarill_palace_address">Strada Teatrului 1&#8211;2, Oradea, Romania</string>
+    <string name="landmark_sztarill_palace_telephone">+40 259 430 508</string>
+    <string name="landmark_sztarill_palace_website">http://oradea.travel/en/?p=1907</string>
+
+    <!-- Details for all parks -->
+    <string name="park_1_december_name">December 1st Park</string>
+    <string name="park_1_december_description">Built in the 1950s under the name \'August 23rd Park\',
+        it represents an oasis of greenery in the middle of the city. Subjected to the canons of modernity,
+        the park was re-done with numerous refined landscaping arrangements. It also houses \'Casa de Cultura a Sindicatelor\', a Cultural Centre which regularly hosts a wide range of shows and events.
+    </string>
+    <string name="park_1_december_address">December 1st Park, Piaţa 1 Decembrie, Oradea, Romania</string>
+
+    <string name="park_cris_river_meadow_name">Cris River Meadow</string>
+    <string name="park_cris_river_meadow_description">A 3-hour walk delight, the Cris River Meadow
+        follows the route of the main river that passes through the city from east to west. Tha maximum
+        amplitude of vegetation development is in the eastern area of the city, where the quiet is
+        conspicuous and the explosion of green extends to the summit of the hills in the area. The dominant
+        vegetation is lover of water both in the area of wooden vegetation as well as the herbaceous layer.
+    </string>
+    <string name="park_cris_river_meadow_address">Piața Libertății 36, Oradea, Romania</string>
+
+    <string name="park_oradea_zoo_name">Oradea Zoo</string>
+    <string name="park_oradea_zoo_description">Situated in the southwest part of Oradea, the local Zoo
+        hosts over 650 animals from nearly all continents, with species like: monkeys, bears, wolves,
+        tigers, jaguars, deer, pythons, and fawns. The majority are pairs that reproduce naturally,
+        in their own habitats. The Oradea Zoo spreads over 75,000 square metres and is an ideal space for relaxation and
+        immersion into nature. Typical opening times are 9am-6pm.
+    </string>
+    <string name="park_oradea_zoo_address">Calea Matei Basarab 1, Oradea, Romania</string>
+    <string name="park_oradea_zoo_telephone">+40 259 434 547</string>
+    <string name="park_oradea_zoo_website">http://www.zooradea.ro/</string>
+
+    <!-- Details for all "food & drink" -->
+    <string name="food_rivo_name">Rivo Restaurant &amp; Lounge</string>
+    <string name="food_rivo_description">Delicious mix of Mediterranean and Romanian food, served in
+    a cosy, laid-back ambiance. In summer, you can relish a delicious lemonade on their spacey terrace
+    right next to the Cris river while enjoying the beautiful views.</string>
+    <string name="food_rivo_address">Aleea Ștrandului 3, Oradea, Romania</string>
+    <string name="food_rivo_telephone">+40 359 444 445</string>
+    <string name="food_rivo_website">http://www.rivorestaurant.ro/</string>
+
+    <string name="food_corsarul_name">Corsarul Restaurant</string>
+    <string name="food_corsarul_description">An Italian restaurant for the seafood lover, Corsarul
+    offers marvellous pasta, risotto, pizzas, as well as delicious beef, pork, chicken, and fish dishes.</string>
+    <string name="food_corsarul_address">Piața Ion Creangă 1, Oradea, Romania</string>
+    <string name="food_corsarul_telephone">+40 259 449 494</string>
+    <string name="food_corsarul_website">https://restaurantcorsarul.ro/</string>
+
+    <string name="food_ristretto_name">Cafe Ristretto</string>
+    <string name="food_ristretto_description">Well-situated coffee shop with a cozy atmosphere, wide
+    selection of drinks, and tasty sandwiches. Regarded by many as the \'best coffee in town\'.</string>
+    <string name="food_ristretto_address">Calea Republicii 11, Oradea, Romania</string>
+    <string name="food_ristretto_telephone">+40 799 112 200</string>
+    <string name="food_ristretto_website">http://www.ristrettocaffe.ro/</string>
+
+    <!-- Details for all activities -->
+    <string name="activities_state_theatre_name">Queen Mary Theatre</string>
+    <string name="activities_state_theatre_description">Dominating Ferdinand Square with its imposing
+    column facade, Oradea\'s State Theatre building houses Queen Mary Theatre (\'Teatrul Regina Maria\'),
+    which regularly runs shows in its 650-seat main hall. With very affordable prices and plays running
+    every day, it represents a \'must see\' for all theatre lovers.</string>
+    <string name="activities_state_theatre_address">Piaţa Ferdinand I 4&#8211;6, Oradea, Romania</string>
+    <string name="activities_state_theatre_telephone">+40 372 368 475</string>
+    <string name="activities_state_theatre_website">http://teatrulreginamaria.ro/</string>
+
+    <string name="activities_nymphaea_aquapark_name">Nymphaea Aquapark</string>
+    <string name="activities_nymphaea_aquapark_description">Promoted as the largest aquapark in Eastern Europe,
+    Nymphaea offers 10 slides, 15 pools, 6 saunas, massage salons, restaurants, and sports facilities.
+    The aquatic park features both indoor and outdoor facilities, with the latter open from 1 May to
+    30 September. Typical opening hours are 10am to 10pm.</string>
+    <string name="activities_nymphaea_aquapark_address">Aleea Ştrandului 13 B Oradea, Oradea 410051, Romania</string>
+    <string name="activities_nymphaea_aquapark_telephone">+40 770 366 388</string>
+    <string name="activities_nymphaea_aquapark_website">http://www.aquapark-nymphaea.ro/</string>
+
+</resources>
